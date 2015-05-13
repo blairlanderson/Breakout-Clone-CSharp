@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameUI", "GameUI\GameUI.csproj", "{9453E5B4-8BCE-4463-A4DE-25F1E5D5E201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{01E12EF9-FFD7-40A2-B4E6-7FAC16ED8366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameObjects", "GameObjects\GameObjects.csproj", "{4804337A-24DB-4662-BDA0-C39812CC81BC}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://w0103696.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = UnitTestProject\\UnitTestProject.csproj
+		SccProjectName0 = UnitTestProject
+		SccLocalPath0 = UnitTestProject
+		SccProjectUniqueName1 = GameObjects\\GameObjects.csproj
+		SccProjectName1 = GameObjects
+		SccLocalPath1 = GameObjects
+		SccProjectUniqueName2 = GameUI\\GameUI.csproj
+		SccProjectName2 = GameUI
+		SccLocalPath2 = GameUI
+		SccLocalPath3 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9453E5B4-8BCE-4463-A4DE-25F1E5D5E201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9453E5B4-8BCE-4463-A4DE-25F1E5D5E201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9453E5B4-8BCE-4463-A4DE-25F1E5D5E201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9453E5B4-8BCE-4463-A4DE-25F1E5D5E201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E12EF9-FFD7-40A2-B4E6-7FAC16ED8366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E12EF9-FFD7-40A2-B4E6-7FAC16ED8366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E12EF9-FFD7-40A2-B4E6-7FAC16ED8366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E12EF9-FFD7-40A2-B4E6-7FAC16ED8366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4804337A-24DB-4662-BDA0-C39812CC81BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4804337A-24DB-4662-BDA0-C39812CC81BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4804337A-24DB-4662-BDA0-C39812CC81BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4804337A-24DB-4662-BDA0-C39812CC81BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
